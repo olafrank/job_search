@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native_jobs",
+    "slug": "react-native_jobs",
+    "extra": {
+      "eas": {
+        "projectId": "8e7d2839-ab04-4a80-9e2c-cc6642a52015"
+      }
+    }
+  }
+}
