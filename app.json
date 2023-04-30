@@ -10,6 +10,9 @@
       "eas": {
         "projectId": "8e7d2839-ab04-4a80-9e2c-cc6642a52015"
       }
+    },
+    "android": {
+      "package": "com.olafrank.reactnative_jobs"
     }
   }
 }
